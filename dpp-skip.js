@@ -6,6 +6,7 @@
 // @description  coloca um botão para pular os videos(não só no speak)
 // @match        *://*/*
 // @grant        none
+// @icon         https://static.wikia.nocookie.net/sanrio/images/1/10/Hello-kitty.png/revision/latest?cb=20171105235741
 // ==/UserScript==
 
 (function() {
