@@ -31,7 +31,7 @@
 
    
     const skipSound = new Audio('https://www.myinstants.com/media/sounds/anime-ahh.mp3'); //se for for otario e não gostou do som de gemido, troca vc mesmo pelo site https://www.myinstants.com/en/index/br/ e coloca o som q vc quiser
-                                                                                            //ou apaga essa linha de comando na hora q colar no tambpermonkey rsrs 
+                                                                                            //ou apaga essa linha de comando na hora q colar no tambpermonkey q fica sem som nenhum rsrs
 
 
     function checkForVideo() {
