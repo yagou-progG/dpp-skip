@@ -49,7 +49,7 @@
             document.addEventListener('keydown', (e) => {
                 if (e.key.toLowerCase() === "p") {
                     video.currentTime = video.duration;
-                    skipSound.play(); // Toca o som
+                    skipSound.play(); 
                 }
             });
         } else {
@@ -59,7 +59,14 @@
 
    
     setInterval(checkForVideo, 1000);
-})();
+})();                                                                                //TOMADA NO CU SUPREMA!!!!
 
-//vão todos vcs tomar no cu seus sebosos
-
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+           //vão todos vcs tomar no meio do cu seus sebosos                                                                                                                         //vão todos vcs tomar no cu seus sebosos
+                                                                                  
